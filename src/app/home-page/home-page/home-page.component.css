@@ -1,0 +1,11 @@
+.master-image {
+  height: 100vh;
+  min-height: 40rem;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.master-image {
+  background-image: url('src/assets/farm_landscape.jpg');
+  background-size: cover;
+  background-position: 0 15%;
+}
